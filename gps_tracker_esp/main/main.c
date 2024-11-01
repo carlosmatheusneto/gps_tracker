@@ -4,7 +4,7 @@
 
 void app_main(void)
 {
-
+	//
 	uart_sim_init();
 	vTaskDelay(3000/portTICK_PERIOD_MS);
 	char *s = "AT\r\n";
