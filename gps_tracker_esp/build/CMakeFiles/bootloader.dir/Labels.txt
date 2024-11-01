@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/carlos/prj/rastreador/gps_tracker_esp/build/CMakeFiles/bootloader
+/home/carlos/prj/rastreador/gps_tracker_esp/build/CMakeFiles/bootloader.rule
+/home/carlos/prj/rastreador/gps_tracker_esp/build/CMakeFiles/bootloader-complete.rule
+/home/carlos/prj/rastreador/gps_tracker_esp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/carlos/prj/rastreador/gps_tracker_esp/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/carlos/prj/rastreador/gps_tracker_esp/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/carlos/prj/rastreador/gps_tracker_esp/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/carlos/prj/rastreador/gps_tracker_esp/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/carlos/prj/rastreador/gps_tracker_esp/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/carlos/prj/rastreador/gps_tracker_esp/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
